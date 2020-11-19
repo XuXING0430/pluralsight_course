@@ -1,0 +1,16 @@
+# Project exclude paths
+/.gradle/
+/java_classes_and_interfaces/build/
+/java_classes_and_interfaces/build/classes/java/main/
+/java_data_structures/build/
+/java_data_structures/build/classes/java/main/
+/java_fundamentals_collections/build/
+/java_fundamentals_collections/build/classes/java/main/
+/java_fundamentals_collections/build/classes/java/test/
+/Java_Getting_start_with_programming_in_Java/build/
+/Java_Getting_start_with_programming_in_Java/build/classes/java/main/
+/out/
+/simple_security/build/
+/simple_security/build/classes/java/main/
+/spring_boot/build/
+/spring_boot/build/classes/java/main/

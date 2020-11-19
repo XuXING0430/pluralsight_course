@@ -1,0 +1,8 @@
+rootProject.name = 'pluralsight_course'
+include 'java_data_structures'
+include 'java_classes_and_interfaces'
+include 'java_fundamentals_collections'
+include 'Java_Getting_start_with_programming_in_Java'
+include 'spring_boot'
+include 'simple_security'
+
